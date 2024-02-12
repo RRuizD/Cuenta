@@ -16,7 +16,7 @@ public class Tablaprintf {
     public static void main(String[] args) {
         System.out.printf("--------------------------------%n");
         System.out.printf("    Javas's primitives types    %n");
-        System.out.printf("     (printf table ejemplo)     %n");
+        System.out.printf("     (printf table example)     %n");
         System.out.printf("--------------------------------%n");
         System.out.printf("| %-10s | %-8s | %4s |%n","CATEGORY","NAME","BITS" );
         System.out.printf("--------------------------------%n");
