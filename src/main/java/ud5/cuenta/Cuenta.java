@@ -11,7 +11,7 @@ package ud5.cuenta;
 public class Cuenta {
 
     private String numero;      //número de la cuenta
-    private float saldo;        //saldo de la cuenta en €
+    private float saldo;        //saldo de la cuenta en euros
 
     public Cuenta(String numCta, float saldoCta) {
         numero = numCta;
