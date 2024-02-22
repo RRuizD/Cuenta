@@ -11,7 +11,7 @@ package com.mycompany.contrato;
 public class Contrato {
     
     //Creo los atributos del programa
-    private double costoLlamada;
+    private double costoLlamadaaaa;
     private double costoMensaje;
     private double Saldo;
     
